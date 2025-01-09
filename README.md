@@ -2,7 +2,7 @@
 
 ## Preview
 
-You can see the DEMO [HERE](https://altamash-webfood-page.netlify.app/).
+You can see the DEMO [HERE](https://lisbon-chair-shop-altamash.netlify.app).
 
 ## Project Description
 
